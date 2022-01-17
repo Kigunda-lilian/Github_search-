@@ -5,4 +5,5 @@ export class RepoClass {
         public description:string,
         public forks:number,
         public watchers_count:number,)
-        {}}
+        {}
+    }
